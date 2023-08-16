@@ -226,7 +226,7 @@ while cap.isOpened():
                         print('**********')
                         
                         status_msg_sent = True
-                        send_sms(phone_number_to, messages)  # 문자 보냄
+                        # send_sms(phone_number_to, messages)  # 문자 보냄
 
               
 
